@@ -1,8 +1,8 @@
 # go-collins
 
-[![GoDoc](https://godoc.org/github.com/tumblr/go-collins/collins?status.svg)](https://godoc.org/github.com/tumblr/go-collins/collins)
+[![GoDoc](https://godoc.org/github.com/runner28-code/go-collins/collins?status.svg)](https://godoc.org/github.com/runner28-code/go-collins/collins)
 [![Travis CI](https://api.travis-ci.org/tumblr/go-collins.svg)](https://travis-ci.org/tumblr/go-collins)
-[![Go Report Card](https://goreportcard.com/badge/github.com/tumblr/go-collins)](https://goreportcard.com/report/github.com/tumblr/go-collins)
+[![Go Report Card](https://goreportcard.com/badge/github.com/runner28-code/go-collins)](https://goreportcard.com/report/github.com/runner28-code/go-collins)
 
 go-collins is a client library for [Collins](http://tumblr.github.io/collins/)
 (our inventory management database) written in Go. It covers the full API and
@@ -110,7 +110,7 @@ for {
 ## Contributing
 
 Bug reports and patches are very welcome. Before contributing code, please see
-[CONTRIBUTING.md](https://github.com/tumblr/go-collins/blob/master/CONTRIBUTING.md).
+[CONTRIBUTING.md](https://github.com/runner28-code/go-collins/blob/master/CONTRIBUTING.md).
 
 ## Contributors
 
